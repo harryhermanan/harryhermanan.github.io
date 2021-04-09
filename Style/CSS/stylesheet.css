@@ -1,0 +1,121 @@
+.pd-t-10 {
+    padding-top: 10px;
+}
+
+.pd-t-30 {
+    padding-top: 30px;
+}
+
+.menu-icon {
+    color: black;
+    float: right;
+    font-size: 30px;
+    padding: 15px 0;
+    display: none;
+  }
+
+.dark-mode {
+    background-color: black;
+    color: white;
+}
+
+li {
+    color: white;
+    list-style: none;
+    float: right;
+    padding: 33px 20px;
+}
+
+.dark {
+    padding-top: 27px;
+}
+
+.dark2 {
+    display: none;
+}
+
+.header {
+    background-color: #f8fafc;
+    height: 90px;
+}
+
+.header a {
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    padding-right: 30px;
+}
+
+.header a:hover {
+    color: black;
+}
+
+.pd-r-100 {
+    padding-right: 100px;
+}
+
+.pd-r-5 {
+    padding-right: 5px;
+}
+
+.container-fluid {
+    padding-top: 50px;
+}
+
+.container-fluid h2 {
+    font-weight: normal;
+}
+
+.container-fluid h3 {
+    font-weight: normal;
+}
+
+.container-fluid p {
+    text-align: center;
+}
+
+.ed-fluid {
+    text-align: center;
+}
+
+.ed-fluid h2 {
+    padding-bottom: 25px;
+}
+
+.ed-fluid h3 {
+    padding-top: 10px;
+}
+
+.center {
+    width: 100%;
+    text-align: center;
+  }
+
+.contact p {
+    text-align: left;
+}
+
+.pd-b-20 {
+    padding-bottom: 20px;
+}
+
+.footer {
+    height: 90px;
+    background-color: black
+}
+
+.footer-logo {
+    color: white;
+    text-align: left;
+    padding-top: 35px;
+    padding-left: 25%;
+}
+
+.footer-sosmed {
+    text-align: right;
+    padding-top: 35px;
+    padding-right: 100px;
+}
+
+.footer-sosmed a {
+    margin: 25px;
+}
